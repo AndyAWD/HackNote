@@ -5,4 +5,6 @@
     <string name="download">下載</string>
     <string name="upload">上傳</string>
     <string name="setting">設定</string>
+    <string name="send">送出</string>
+    <string name="token_info">在這裡貼上 HackMD 的 Token</string>
 </resources>
